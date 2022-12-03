@@ -15,6 +15,7 @@ require (
 	github.com/go-chi/render v1.0.2
 	github.com/gofrs/uuid v4.3.1+incompatible
 	github.com/hashicorp/yamux v0.1.1
+	github.com/insomniacslk/dhcp v0.0.0-20221001123530-5308ebe5334c
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/mholt/acmez v1.0.4
 	github.com/miekg/dns v1.1.50
@@ -73,6 +74,7 @@ require (
 	github.com/sagernet/go-tun2socks v1.16.12-0.20220818015926-16cb67876a61 // indirect
 	github.com/sagernet/netlink v0.0.0-20220905062125-8043b4a9aa97 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/u-root/uio v0.0.0-20210528114334-82958018845c // indirect
 	github.com/vishvananda/netns v0.0.0-20211101163701-50045581ed74 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/mod v0.6.0 // indirect
